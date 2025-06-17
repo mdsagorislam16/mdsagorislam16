@@ -1,14 +1,14 @@
-![I am Md Saggor Islam](https://media.licdn.com/dms/image/v2/D5616AQGZgXNA8rKq8w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720193655756?e=1740614400&v=beta&t=VYZ3V98waYrZUQXU2WqBwu29n3EgIr3pRcSqdWUG9DI)
+![I am Md Saggor Islam](https://media.licdn.com/dms/image/v2/D5616AQGZgXNA8rKq8w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720193655756?e=1755734400&v=beta&t=kJN5nABpMWk1NSkvG-86m64tqPahu3rda_Mk3CqjKIg)
 
 <span align="left">
   <img src="https://komarev.com/ghpvc/?username=mdsagorislam16&label=Profile%20views&color=brightgreen&style=flat-square" alt="mdsagorislam16" />
 </span>
 
 <h1 align="center" style="font-family: 'Source Code Pro', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #14cf93;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Sagor!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Md Sagor Islam!" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate Front-end Developer from Bangladesh</h3>
+<h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
 <br />
 
