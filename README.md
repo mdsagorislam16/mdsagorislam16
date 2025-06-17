@@ -1,27 +1,31 @@
-![I am Md Saggor Islam](https://media.licdn.com/dms/image/v2/D5616AQGZgXNA8rKq8w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720193655756?e=1755734400&v=beta&t=kJN5nABpMWk1NSkvG-86m64tqPahu3rda_Mk3CqjKIg)
+<!-- Banner -->
+![I am Md Sagor Islam](https://media.licdn.com/dms/image/v2/D5616AQGZgXNA8rKq8w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720193655756?e=1755734400&v=beta&t=kJN5nABpMWk1NSkvG-86m64tqPahu3rda_Mk3CqjKIg)
 
+<!-- Profile Views -->
 <span align="left">
   <img src="https://komarev.com/ghpvc/?username=mdsagorislam16&label=Profile%20views&color=brightgreen&style=flat-square" alt="mdsagorislam16" />
 </span>
 
-<h1 align="center" style="font-family: 'Source Code Pro', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #14cf93;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Md Sagor Islam!" alt="Typing SVG" />
+<!-- Intro with Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Md+Sagor+Islam!" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate Web Developer from Bangladesh</h3>
-
-<br />
-
-## 👀 Current overview
-
-#### - 🌱 I’m currently learning **JavaScript**
-#### - 👨‍💻 All of my projects are available at [https://github.com/mdsagorislam16](https://github.com/mdsagorislam16)
-#### - 💬 Ask me about **HTML5, CSS3, JS, Tailwind CSS, React.js,**
-#### - 📫 How to reach me: *saagor.16@gmail.com*
+<h3 align="center">🚀 Aspiring Full Stack Web Developer | Learning TypeScript | Based in Bangladesh</h3>
 
 ---
 
-## 📬 Reach me out
+## 🔍 About Me
+
+- 🔭 I’m currently working on **Full Stack Projects (MERN)**
+- 🌱 Recently completed JavaScript, now learning **TypeScript**
+- 💻 Most of my projects are available at: [GitHub Profile](https://github.com/mdsagorislam16)
+- 💬 Ask me about: `HTML5`, `CSS3`, `JavaScript`, `React`, `Tailwind`, `Express`, `MongoDB`, and `Firebase`
+- 📫 Email me: **saagor.16@gmail.com**
+
+---
+
+## 📬 Connect With Me
 
 <p align="center">
   <a href="https://x.com/16Saagor" target="_blank">
@@ -40,7 +44,7 @@
 
 ---
 
-## 💻 Technologies that I know
+## 🛠️ Technologies & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -56,9 +60,9 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
 </p>
 
 ---
@@ -80,7 +84,7 @@
     <img alt="Sagor's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mdsagorislam16&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" />
   </a>
   <a href="https://github.com/mdsagorislam16">
-    <img alt="Sagor's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mdsagorislam16&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" />
+    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mdsagorislam16&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" />
   </a>
 </p>
 
